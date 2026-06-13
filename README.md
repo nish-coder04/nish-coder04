@@ -9,8 +9,8 @@
 ---
 
 ### 🔧 What I'm working on
-- Strengthening DSA fundamentals (Striver's A2Z Sheet)
-- AI/ML learning path (Apna College Prime)
+- Strengthening DSA fundamentals 
+- AI/ML learning path 
 - Building and improving full-stack mini projects with Python & Flask
 
 ---
