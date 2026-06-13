@@ -33,7 +33,7 @@
 ### 🌐 Connect with me
 - 🔗 [Portfolio](https://nishtha-ns.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nishtha-s-0b213b318/)
-- 📸 Instagram: [@nofilter.nish](https://instagram.com/nofilter.nish)
+
 
 ---
 
