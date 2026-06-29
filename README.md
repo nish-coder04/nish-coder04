@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE student at JECRC University, Jaipur | Minor in Data Science (AI-ML) from IIT Mandi
 
-💻 Currently focused on **DSA (Python)**, **Core CS subjects (OS, CN, DBMS)**, and **AI/ML**
+💻 Currently focused on **DSA (Java)**, **Core CS subjects (OS, CN, DBMS)**, and **AI/ML**
 
 🚀 I love building real-world projects that solve everyday problems
 
