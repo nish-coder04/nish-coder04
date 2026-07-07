@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python, C, C++  
+**Languages:** Python, C, Java
 **Web/Backend:** Flask, HTML, CSS  
 **Tools & Concepts:** OpenCV, Selenium, SQLite, Git/GitHub  
 **Currently Learning:** Machine Learning, Data Structures & Algorithms
